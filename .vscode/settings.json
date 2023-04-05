@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/apps/v1@deployment": "file:///d%3A/code/arquitect-course/microservices-with-nodejs/ticketing/infra/k8s/auth-mongo-depl.yaml"
+    }
+}
